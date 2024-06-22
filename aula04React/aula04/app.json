@@ -1,0 +1,13 @@
+{
+  "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#25292e"
+  },
+  "expo": {
+    "name": "aula04",
+    "slug": "aula04",
+    "version": "1.0.0"
+  },
+  "name": "aula04"
+}
